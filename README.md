@@ -1,4 +1,3 @@
-<img src="https://github.com/Xavier-Alves/Xavier-Alves/blob/main/images/header.png"></img>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xavier-alvess/)
 [![Email Badge](https://img.shields.io/badge/-Email-4d0087?style=for-the-badge&logo=protonmail&cacheSeconds=3600&link=mailto:daniel.marquesedigital@gmail.com)](mailto:xavieralves.2003@outlook.com)
